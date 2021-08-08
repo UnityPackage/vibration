@@ -1,0 +1,8 @@
+{
+  "name": "com.unitypackage.vibration",
+  "displayName": "Vibration",
+  "description": "Vibration",
+  "unity": "2019.2",
+  "dependencies": {},
+  "version": "1.0.0"
+}
